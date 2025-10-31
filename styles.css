@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	color : white;
+	background-color :Black;
+	width : 10 px;
+	height : 5 px;
+}
